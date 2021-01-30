@@ -1,6 +1,7 @@
 # PetTracker
 
 Transmitter: Arduino Pro Mini, LoRa module, GPS module Neo6
+
 Receiver: Raspberry Pi, LoRa module
 
 Transmitter sends coordinates via LoRa to Raspberry Pi
