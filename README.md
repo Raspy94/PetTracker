@@ -8,11 +8,11 @@ Transmitter sends coordinates via LoRa to Raspberry Pi
 Receiver reads and logs coordinates and uses a geomapping service to display the data in Google map
 
 Functions: 
-Real Time tracking
+Real Time tracking, 
 Tracking History
 
 Desired: 
-Fence Alert
+Fence Alert, 
 Battery level indicator/Warning
 
 Optionals: 
